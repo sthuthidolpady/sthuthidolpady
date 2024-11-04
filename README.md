@@ -1,5 +1,6 @@
 <!-- Header -->
 # Hi there! 👋 I'm Sthuthi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+[![An image of @sthuthidolpady's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sthuthidolpady)](https://holopin.io/@sthuthidolpady)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sthuthidolpady)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sthuthidolpady)
